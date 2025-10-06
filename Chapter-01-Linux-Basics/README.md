@@ -1,27 +1,14 @@
-DevOps-Learning-Journey/
-│
-├── Chapter-01-Linux-Basics/
-│   ├── README.md
-│   └── linux-commands.md
-│
-├── Chapter-02-Git-GitHub/
-│   ├── README.md
-│   └── git-commands.md
-│
-├── Chapter-03-Docker/
-│   ├── README.md
-│   └── docker-practice.md
-│
-├── Chapter-04-Jenkins/
-│   ├── README.md
-│   └── jenkins-pipeline.md
-│
-├── Chapter-05-Kubernetes/
-│   ├── README.md
-│   └── k8s-practice.md
-│
-├── Chapter-06-CI-CD/
-│   ├── README.md
-│   └── pipeline-examples.md
-│
-└── README.md        
+# Chapter 01: Linux Basics
+
+## Introduction
+This chapter covers essential Linux commands used in DevOps projects.
+
+## Topics Covered
+- File & Directory Management: ls, cd, mkdir, rm
+- File Permissions: chmod, chown
+- Process & Resource Management: ps, top, kill
+
+## Practice Exercises
+1. Create a folder `DevOpsPractice` and create 3 files inside it.
+2. Change file permissions to make one executable.
+3. Monitor running processes using `top`.
